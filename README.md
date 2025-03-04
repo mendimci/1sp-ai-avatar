@@ -15,9 +15,9 @@ Before cloning this repository, ensure you have the following installed:
 
 The following plugins must be installed from **Fab** before opening the project:
 
-- **MetaHuman Plugin**
+- **MetaHuman Plugin** --> [Download](https://www.fab.com/listings/055a6486-ad17-4590-aa1e-261d47f7f041)
 - **Quixel Bridge**
-- **Convai**
+- **Convai** --> not available through Fab.com in Germany/EU
 
 ### How to Install Plugins:
 1. Go to [Fab.com](https://fab.com) and sign in with your **Epic Games** account.

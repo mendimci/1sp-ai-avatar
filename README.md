@@ -10,6 +10,22 @@ Before cloning this repository, ensure you have the following installed:
 - **Git** ([Download Git](https://git-scm.com/downloads))
 - **Git LFS (Large File Storage)** ([Download Git LFS](https://git-lfs.github.com/))
 
+## Required Plugins
+
+The following plugins must be installed from **Fab** before opening the project:
+
+- **MetaHuman Plugin**
+- **Quixel Bridge**
+- **Convai**
+
+### How to Install Plugins:
+1. Go to [Fab.com](https://fab.com) and sign in with your **Epic Games** account.
+2. Search for each required plugin and **add it to your library**.
+3. Open **Epic Games Launcher** and go to the **Library** tab.
+4. Refresh the Library and install each plugin.
+5. Open **Unreal Engine**, go to **Edit > Plugins**, search for the plugins, and ensure they are enabled.
+6. Restart Unreal Engine.
+
 ## Setting Up the Project
 
 1. **Install Git LFS** (if not already installed):
@@ -50,4 +66,3 @@ Before cloning this repository, ensure you have the following installed:
 ## License
 
 Include any license details here (if applicable).
-

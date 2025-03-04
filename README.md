@@ -64,5 +64,3 @@ The following plugins must be installed from **Fab** before opening the project:
 - If Unreal Engine asks to rebuild modules, click **Yes**.
 
 ## License
-
-Include any license details here (if applicable).

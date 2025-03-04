@@ -9,6 +9,7 @@ Before cloning this repository, ensure you have the following installed:
 - **Unreal Engine** (Recommended version: 5.5.3)
 - **Git** ([Download Git](https://git-scm.com/downloads))
 - **Git LFS (Large File Storage)** ([Download Git LFS](https://git-lfs.github.com/))
+- **XCode** (on Mac)
 
 ## Required Plugins
 
